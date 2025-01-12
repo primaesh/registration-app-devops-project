@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, Happy Learning </h1>
-   <h1> See You Again </h1>
-  
+   <h1> jo bi ho aapne kafi acch akaam kiya </h1>
+   <h1> lagta kafi mahent ki hai aapne to fal bi millega </h1>
+   <h1> btw kosis bhut ki but ye sb ho nhi paya to direct github se changes kiye <h1>
+
 </form>
